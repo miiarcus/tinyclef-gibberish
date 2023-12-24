@@ -1,0 +1,28 @@
+{
+    "EmoteMessages": {
+        "noSeat" : {
+			"title" : "Need more seats!",
+			"message" : "Buy more chairs to seat waiting customers."
+		},
+        "noTable" : {
+			"title" : "Need more tables!",
+			"message" : "Make sure there is one chair per table so all customers can eat."
+		},
+        "blocked" : {
+			"title" : "Make way, please!",
+			"message" : "Clear blocked paths to chairs and serving plates."
+		},
+        "noFood" : {
+			"title" : "More food, please!",
+			"message" : "Your customers are hungry. Serve meals to get tips and XP!"
+		},
+        "dirtyTable" : {
+			"title" : "A table is dirty!",
+			"message" : "Tap tables with dirty dishes to clean them faster!"
+		},
+        "tooSlow" : {
+			"title" : "Service is slow!",
+			"message" : "Hire waiters & arrange serving plates to serve customers faster."
+		}
+    }
+}

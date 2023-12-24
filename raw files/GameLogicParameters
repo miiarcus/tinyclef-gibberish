@@ -1,0 +1,17 @@
+{
+    "GameLogicParameters": {
+        "cleaningTime" : 2.0,
+        "walkSpeed" : 1.4,
+        "doorOpenTime" : 1.5,
+        "waitForSeatTime" : 5.0,
+        "waitForTableTime" : 10.0,
+        "waitForFoodTime" : 10.0,
+        "waitAtDirtyTable" : 10.0,
+        "eatingTime" : 15.0,
+        "popularityMin" : 10.0,
+        "popularityToPatronsPower" : 0.435,
+        "popularityBonusPerMeal" : 0.9,
+        "popularityLossForGiveUp" : 1.0,
+        "averageVisitTime" : 24.0 
+    }
+}

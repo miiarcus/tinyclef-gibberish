@@ -1,0 +1,45 @@
+{
+"Recipes":
+[
+
+ {"name": "Spaghetti & Meatballs", "recipeID" : "spaghetti", "unlockedAtLevel" :1, "imageName" : "spaghettimeatballs", "servingPrice" :1, "servings" :10, "cookCost" :0, "cookPremiumCost" :0, "instantFinishPremiumCost" :1, "instantCookPremiumCost" :1, "cookTime":180, "masteryCounts" : [1,4,10] },
+ {"name": "Hot Dogs", "recipeID" : "hotdogs", "unlockedAtLevel" :2, "imageName" : "hotdogs", "servingPrice" :1, "servings" :25, "cookCost" :5, "cookPremiumCost" :0, "instantFinishPremiumCost" :1, "instantCookPremiumCost" :1, "cookTime":600, "masteryCounts" : [1,4,10] },
+ {"name": "Hamburger", "recipeID" : "hamburger", "unlockedAtLevel" :1, "imageName" : "hamburger", "servingPrice" :1, "servings" :130, "cookCost" :25, "cookPremiumCost" :0, "instantFinishPremiumCost" :2, "instantCookPremiumCost" :2, "cookTime":3600, "masteryCounts" : [1,4,10] },
+ {"name": "Mac & Cheese", "recipeID" : "macandcheese", "unlockedAtLevel" :3, "imageName" : "macandcheese", "servingPrice" :1, "servings" :400, "cookCost" :75, "cookPremiumCost" :0, "instantFinishPremiumCost" :6, "instantCookPremiumCost" :6, "cookTime":14400, "masteryCounts" : [1,4,10] },
+ {"name": "Fish & Chips", "recipeID" : "fishandchips", "unlockedAtLevel" :4, "imageName" : "fishandchips", "servingPrice" :1, "servings" :700, "cookCost" :100, "cookPremiumCost" :0, "instantFinishPremiumCost" :10, "instantCookPremiumCost" :10, "cookTime":28800, "masteryCounts" : [1,4,10] },
+ {"name": "Meatloaf", "recipeID" : "meatloaf", "unlockedAtLevel" :5, "imageName" : "meatloaf", "servingPrice" :1, "servings" :1400, "cookCost" :250, "cookPremiumCost" :0, "instantFinishPremiumCost" :21, "instantCookPremiumCost" :21, "cookTime":64800, "masteryCounts" : [1,4,10] },
+ {"name": "Roast Chicken", "recipeID" : "roastchicken", "unlockedAtLevel" :6, "imageName" : "roastchicken", "servingPrice" :1, "servings" :1800, "cookCost" :450, "cookPremiumCost" :0, "instantFinishPremiumCost" :28, "instantCookPremiumCost" :28, "cookTime":86400, "masteryCounts" : [1,4,10] },
+ {"name": "Chocolate Cake", "recipeID" : "chocolatecake", "unlockedAtLevel" :1, "imageName" : "chocolatecake", "servingPrice" :2, "servings" :1600, "cookCost" :0, "cookPremiumCost" :6, "instantFinishPremiumCost" :8, "instantCookPremiumCost" :15, "cookTime":3600, "masteryCounts" : [1,4,10] },
+ {"name": "Fried Chicken", "recipeID" : "friedchicken", "unlockedAtLevel" :1, "imageName" : "friedchicken", "servingPrice" :2, "servings" :175, "cookCost" :0, "cookPremiumCost" :3, "instantFinishPremiumCost" :2, "instantCookPremiumCost" :5, "cookTime":300, "masteryCounts" : [2,4,10] },
+
+
+
+
+
+ {"name": "Beef Tacos", "recipeID" : "beeftacos", "unlockedAtLevel" :1, "imageName" : "beeftacos", "servingPrice" :2, "servings" :160, "cookCost" :90, "cookPremiumCost" :0, "instantFinishPremiumCost" :3, "instantCookPremiumCost" :3, "cookTime":7200, "masteryCounts" : [2,6,14] },
+ {"name": "Chicken Parm", "recipeID" : "chickenparm", "unlockedAtLevel" :12, "imageName" : "chickenparm", "servingPrice" :2, "servings" :70, "cookCost" :50, "cookPremiumCost" :0, "instantFinishPremiumCost" :2, "instantCookPremiumCost" :2, "cookTime":2700, "masteryCounts" : [2,6,14] },
+ {"name": "Cheese Ravioli", "recipeID" : "cheeseravioli", "unlockedAtLevel" :10, "imageName" : "cheeseravioli", "servingPrice" :2, "servings" :400, "cookCost" :200, "cookPremiumCost" :0, "instantFinishPremiumCost" :8, "instantCookPremiumCost" :8, "cookTime":21600, "masteryCounts" : [2,6,14] },
+ {"name": "Eggs Benedict", "recipeID" : "eggsbenedict", "unlockedAtLevel" :9, "imageName" : "eggsbenedict", "servingPrice" :2, "servings" :25, "cookCost" :25, "cookPremiumCost" :0, "instantFinishPremiumCost" :1, "instantCookPremiumCost" :1, "cookTime":300, "masteryCounts" : [2,6,14] },
+ {"name": "Pot Roast", "recipeID" : "potroast", "unlockedAtLevel" :8, "imageName" : "potroast", "servingPrice" :2, "servings" :700, "cookCost" :375, "cookPremiumCost" :0, "instantFinishPremiumCost" :15, "instantCookPremiumCost" :15, "cookTime":43200, "masteryCounts" : [2,6,14] },
+ {"name": "Lasagna", "recipeID" : "lasagna", "unlockedAtLevel" :11, "imageName" : "lasagna", "servingPrice" :2, "servings" :1200, "cookCost" :700, "cookPremiumCost" :0, "instantFinishPremiumCost" :28, "instantCookPremiumCost" :28, "cookTime":86400, "masteryCounts" : [2,6,14] },
+ {"name": "Roasted Turkey & Veggies", "recipeID" : "roastedturkeyveggies", "unlockedAtLevel" :7, "imageName" : "roastedturkeyveggies", "servingPrice" :2, "servings" :1950, "cookCost" :1050, "cookPremiumCost" :0, "instantFinishPremiumCost" :55, "instantCookPremiumCost" :55, "cookTime":172800, "masteryCounts" : [2,6,14] },
+ {"name": "Crab Cake", "recipeID" : "crabcake", "unlockedAtLevel" :1, "imageName" : "crabcake", "servingPrice" :4, "servings" :600, "cookCost" :0, "cookPremiumCost" :5, "instantFinishPremiumCost" :6, "instantCookPremiumCost" :12, "cookTime":1800, "masteryCounts" : [2,6,14] },
+ {"name": "Angel Food Cake", "recipeID" : "angelfoodcake", "unlockedAtLevel" :1, "imageName" : "angelfoodcake", "servingPrice" :4, "servings" :3500, "cookCost" :0, "cookPremiumCost" :17, "instantFinishPremiumCost" :33, "instantCookPremiumCost" :50, "cookTime":14400, "masteryCounts" : [2,6,14] },
+
+
+
+
+
+ {"name": "Pulled Pork Sandwich", "recipeID" : "pulledporksandwich", "unlockedAtLevel" :13, "imageName" : "pulledporksandwich", "servingPrice" :3, "servings" :2050, "cookCost" :1775, "cookPremiumCost" :0, "instantFinishPremiumCost" :82, "instantCookPremiumCost" :82, "cookTime":259200, "masteryCounts" : [3,9,21] },
+ {"name": "Chicken Fettuccini", "recipeID" : "chickenfettuccini", "unlockedAtLevel" :18, "imageName" : "chickenfettuccini", "servingPrice" :3, "servings" :1175, "cookCost" :900, "cookPremiumCost" :0, "instantFinishPremiumCost" :42, "instantCookPremiumCost" :42, "cookTime":129600, "masteryCounts" : [3,9,21] },
+ {"name": "BBQ Ribs", "recipeID" : "bbqribs", "unlockedAtLevel" :16, "imageName" : "bbqribs", "servingPrice" :3, "servings" :275, "cookCost" :350, "cookPremiumCost" :0, "instantFinishPremiumCost" :5, "instantCookPremiumCost" :5, "cookTime":10800, "masteryCounts" : [3,9,21] },
+ {"name": "Shrimp Scampi", "recipeID" : "shrimpscampi", "unlockedAtLevel" :15, "imageName" : "shrimpscampi", "servingPrice" :3, "servings" :975, "cookCost" :725, "cookPremiumCost" :0, "instantFinishPremiumCost" :29, "instantCookPremiumCost" :29, "cookTime":86400, "masteryCounts" : [3,9,21] },
+ {"name": "Classic Steak", "recipeID" : "classicsteak", "unlockedAtLevel" :19, "imageName" : "classicsteak", "servingPrice" :3, "servings" :525, "cookCost" :450, "cookPremiumCost" :0, "instantFinishPremiumCost" :11, "instantCookPremiumCost" :11, "cookTime":28800, "masteryCounts" : [3,9,21] },
+ {"name": "Caesar Salad", "recipeID" : "caesarsalad", "unlockedAtLevel" :1, "imageName" : "caesarsalad", "servingPrice" :3, "servings" :95, "cookCost" :165, "cookPremiumCost" :0, "instantFinishPremiumCost" :2, "instantCookPremiumCost" :2, "cookTime":1800, "masteryCounts" : [3,9,21] },
+ {"name": "Veggie Burrito", "recipeID" : "veggieburrito", "unlockedAtLevel" :14, "imageName" : "veggieburrito", "servingPrice" :3, "servings" :170, "cookCost" :225, "cookPremiumCost" :0, "instantFinishPremiumCost" :3, "instantCookPremiumCost" :3, "cookTime":5400, "masteryCounts" : [3,9,21] },
+ {"name": "Falafel Pita", "recipeID" : "falafelpita", "unlockedAtLevel" :17, "imageName" : "falafelpita", "servingPrice" :3, "servings" :425, "cookCost" :345, "cookPremiumCost" :0, "instantFinishPremiumCost" :9, "instantCookPremiumCost" :9, "cookTime":21600, "masteryCounts" : [3,9,21] },
+ {"name": "Pigs in Blankets", "recipeID" : "pigsinblankets", "unlockedAtLevel" :1, "imageName" : "pigsinblankets", "servingPrice" :6, "servings" :2000, "cookCost" :0, "cookPremiumCost" :15, "instantFinishPremiumCost" :27, "instantCookPremiumCost" :42, "cookTime":7200, "masteryCounts" : [3,9,21] },
+ {"name": "Turducken", "recipeID" : "turducken", "unlockedAtLevel" :1, "imageName" : "turducken", "servingPrice" :6, "servings" :4325, "cookCost" :0, "cookPremiumCost" :29, "instantFinishPremiumCost" :59, "instantCookPremiumCost" :88, "cookTime":21600, "masteryCounts" : [3,9,21] },
+ {"name": "Chocolate Souffle", "recipeID" : "chocolatesouffle", "unlockedAtLevel" :1, "imageName" : "chocolatesouffle", "servingPrice" :6, "servings" :9250, "cookCost" :0, "cookPremiumCost" :59, "instantFinishPremiumCost" :136, "instantCookPremiumCost" :195, "cookTime":86400, "masteryCounts" : [3,9,21] }
+]
+}

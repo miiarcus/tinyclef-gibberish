@@ -1,0 +1,32 @@
+
+{
+"Cookbooks":
+[
+
+	{
+	"name" : "Kitchen Basics",
+	"icon" : "cookbook_kitchen_basics.png",
+	"lockedIcon" : "cookbook_kitchen_basics_locked.png",
+	"starsToUnlock" : 0,
+	"recipeIDs" : ["spaghetti","hotdogs","hamburger","macandcheese","fishandchips","meatloaf","roastchicken","chocolatecake","friedchicken"]
+	},
+
+	{
+	"name" : "Family Favorites",
+	"icon" : "cookbook_family_favorites.png",
+	"lockedIcon" : "cookbook_family_favorites_locked.png",
+	"starsToUnlock" : 1,
+	"recipeIDs" : ["beeftacos","chickenparm","cheeseravioli","eggsbenedict","potroast","lasagna","roastedturkeyveggies","crabcake","angelfoodcake"]
+
+	},
+
+	{
+	"name" : "Delicious Dishes",
+	"icon" : "cookbook_delicious_dishes.png",
+	"lockedIcon" : "cookbook_delicious_dishes_locked.png",
+	"starsToUnlock" : 2,
+	"recipeIDs" : ["pulledporksandwich","chickenfettuccini","bbqribs","shrimpscampi","classicsteak","caesarsalad","veggieburrito","falafelpita","pigsinblankets","turducken","chocolatesouffle"]
+	}
+
+]
+}

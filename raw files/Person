@@ -1,0 +1,96 @@
+{
+"Person":
+[
+
+	{
+	"personID"	:	"patron1",
+	"isWaiter"	:	false,
+	"frameListFile"	:	"patron1.plist",
+	"animationPrefixes" : {
+		"stand"	:	"patron1-walk",
+		"walk"	:	"patron1-walk",
+		"sit"	:	"patron1-sit",
+		"eat"	:	"patron1-eat",
+		"idle"	:	"patron1-idle"
+		}
+	},
+
+	{
+	"personID"	:	"patron2",
+	"isWaiter"	:	false,
+	"frameListFile"	:	"patron2.plist",
+	"animationPrefixes" : {
+		"stand"	:	"patron2-walk",
+		"walk"	:	"patron2-walk",
+		"sit"	:	"patron2-sit",
+		"eat"	:	"patron2-eat",
+		"idle"	:	"patron2-idle"
+		}
+	},
+
+	{
+	"personID"	:	"patron3",
+	"isWaiter"	:	false,
+	"frameListFile"	:	"patron3.plist",
+	"animationPrefixes" : {
+		"stand"	:	"patron3-walk",
+		"walk"	:	"patron3-walk",
+		"sit"	:	"patron3-sit",
+		"eat"	:	"patron3-eat",
+		"idle"	:	"patron3-idle"
+		}
+	},
+
+	{
+	"personID"	:	"patron4",
+	"isWaiter"	:	false,
+	"frameListFile"	:	"patron4.plist",
+	"animationPrefixes" : {
+		"stand"	:	"patron4-walk",
+		"walk"	:	"patron4-walk",
+		"sit"	:	"patron4-sit",
+		"eat"	:	"patron4-eat",
+		"idle"	:	"patron4-idle"
+		}
+	},
+
+	{
+	"personID"	:	"patron5",
+	"isWaiter"	:	false,
+	"frameListFile"	:	"patron5.plist",
+	"animationPrefixes" : {
+		"stand"	:	"patron5-walk",
+		"walk"	:	"patron5-walk",
+		"sit"	:	"patron5-sit",
+		"eat"	:	"patron5-eat",
+		"idle"	:	"patron5-idle"
+		}
+	},
+	
+	{
+	"personID"	:	"server1",
+	"frameListFile"	:	"server1.plist",
+	"isWaiter"	:	true,
+	"animationPrefixes" : {
+		"stand"	:	"server1-walk",
+		"walk"	:	"server1-walk",
+		"carry"	:	"server1-carry",
+		"work"	:	"server1-walk",
+		"idle"	:	"server1-idle"
+		}
+	},
+	
+	{
+	"personID"	:	"server2",
+	"frameListFile"	:	"server2.plist",
+	"isWaiter"	:	true,
+	"animationPrefixes" : {
+		"stand"	:	"server2-walk",
+		"walk"	:	"server2-walk",
+		"carry"	:	"server2-carry",
+		"work"	:	"server2-walk",
+		"idle"	:	"server2-idle"
+		}
+	}
+
+]}

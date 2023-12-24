@@ -1,0 +1,9 @@
+{
+"ExchangeRates":
+[
+	{ "maxLevelNum" :	0	, "rates" :	[{"premiumCurrency":1, "coins":100}, {"premiumCurrency":3, "coins":300}, {"premiumCurrency":5, "coins":500}, {"premiumCurrency":9, "coins":900}]},
+	{ "maxLevelNum" :	15	, "rates" :	[{"premiumCurrency":1, "coins":120}, {"premiumCurrency":3, "coins":360}, {"premiumCurrency":5, "coins":600}, {"premiumCurrency":9, "coins":1080}]},
+	{ "maxLevelNum" :	30	, "rates" :	[{"premiumCurrency":1, "coins":121}, {"premiumCurrency":3, "coins":361}, {"premiumCurrency":5, "coins":601}, {"premiumCurrency":9, "coins":1081}]}
+]
+
+}

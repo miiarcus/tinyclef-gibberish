@@ -1,0 +1,197 @@
+{
+"Furniture":
+[
+	{
+		"furnitureID": "stove",
+        "class": "Stove",
+        "name": "Plain",
+		"price": 200,
+		"premiumPrice": 0,
+		
+		"imageSetID": "stainless.png",
+		"unlockedAtLevel" : 1,
+		"hasFaceUpFrames": true,
+		"hasFrontBackSplit": false
+	},
+
+
+{"furnitureID": "basic-wood-chair", "class": "Chair", "name": "Basic Wood Chair","price": 50,"premiumPrice":0,"imageSetID": "basic-wood-chair.png","unlockedAtLevel" : 0},
+{"furnitureID": "white-wood-chair", "class": "Chair", "name": "White Wood Chair","price": 50,"premiumPrice":0,"imageSetID": "white-wood-chair.png","unlockedAtLevel" : 0},
+{"furnitureID": "blue-metal-chair", "class": "Chair", "name": "Blue Metal Chair","price": 50,"premiumPrice":0,"imageSetID": "blue-metal-chair.png","unlockedAtLevel" : 0},
+{"furnitureID": "yellow-metal-chair", "class": "Chair", "name": "Yellow Metal Chair","price": 50,"premiumPrice":0,"imageSetID": "yellow-metal-chair.png","unlockedAtLevel" : 0},
+{"furnitureID": "black-fancy-chair", "class": "Chair", "name": "Black Fancy Chair","price": 50,"premiumPrice":0,"imageSetID": "black-fancy-chair.png","unlockedAtLevel" : 0},
+
+
+{"furnitureID": "yellow-metal-legs-table", "class": "Table", "name": "Metal Legged Table","price": 100,"premiumPrice":0,"imageSetID": "yellow-metal-legs-table.png","unlockedAtLevel" : 0},
+{"furnitureID": "black-metal-legs-table", "class": "Table", "name": "Metal Legged Table","price": 100,"premiumPrice":0,"imageSetID": "black-metal-legs-table.png","unlockedAtLevel" : 0},
+{"furnitureID": "basic-wood-table", "class": "Table", "name": "Square Wood Table","price": 100,"premiumPrice":0,"imageSetID": "basic-wood-table.png","unlockedAtLevel" : 0},
+{"furnitureID": "white-tablecloth-table", "class": "Table", "name": "Square Wood & Cloth","price": 125,"premiumPrice":0,"imageSetID": "white-tablecloth-table.png","unlockedAtLevel" : 0},
+{"furnitureID": "rounded-wood-table", "class": "Table", "name": "Rounded Corners","price": 0,"premiumPrice":2,"imageSetID": "rounded-wood-table.png","unlockedAtLevel" : 0},
+{"furnitureID": "diner-black-table", "class": "Table", "name": "Diner Table","price": 0,"premiumPrice":3,"imageSetID": "diner-black-table.png","unlockedAtLevel" : 0},
+{"furnitureID": "diner-red-table", "class": "Table", "name": "Diner Table","price": 0,"premiumPrice":3,"imageSetID": "diner-red-table.png","unlockedAtLevel" : 0},
+{"furnitureID": "diner-blue-table", "class": "Table", "name": "Diner Table","price": 0,"premiumPrice":3,"imageSetID": "diner-blue-table.png","unlockedAtLevel" : 0},
+{"furnitureID": "pub-table", "class": "Table", "name": "Pub Table","price": 100,"premiumPrice":0,"imageSetID": "pub-table.png","unlockedAtLevel" : 0},
+{"furnitureID": "marble-inlay-table", "class": "Table", "name": "Marble Inlay Table","price": 100,"premiumPrice":0,"imageSetID": "marble-inlay-table.png","unlockedAtLevel" : 0},
+{"furnitureID": "red-metal-legs-table", "class": "Table", "name": "Metal Legged Table","price": 100,"premiumPrice":0,"imageSetID": "red-metal-legs-table.png","unlockedAtLevel" : 0},
+{"furnitureID": "green-metal-legs-table", "class": "Table", "name": "Metal Legged Table","price": 100,"premiumPrice":0,"imageSetID": "green-metal-legs-table.png","unlockedAtLevel" : 0},
+{"furnitureID": "blue-metal-legs-table", "class": "Table", "name": "Metal Legged Table","price": 100,"premiumPrice":0,"imageSetID": "blue-metal-legs-table.png","unlockedAtLevel" : 0},
+{"furnitureID": "round-wood-table", "class": "Table", "name": "Round Table","price": 100,"premiumPrice":0,"imageSetID": "round-wood-table.png","unlockedAtLevel" : 0},
+{"furnitureID": "white-round-tablecloth-table", "class": "Table", "name": "Round Tablecloth Table","price": 100,"premiumPrice":0,"imageSetID": "white-round-tablecloth-table.png","unlockedAtLevel" : 0},
+
+
+{"furnitureID": "servingTable", "class": "ServingTable", "name": "Cloth Serving Stand","price": 500,"premiumPrice":0,"imageSetID": "serving1.png","unlockedAtLevel" : 0},
+
+
+{"furnitureID": "basic-white-stove", "class": "Stove", "name": "Basic Stove","price": 1000,"premiumPrice":0,"imageSetID": "basic-white-stove.png","unlockedAtLevel" : 0},
+{"furnitureID": "basic-red-stove", "class": "Stove", "name": "Basic Stove","price": 0,"premiumPrice":2,"imageSetID": "basic-red-stove.png","unlockedAtLevel" : 0},
+{"furnitureID": "basic-stainless-stove", "class": "Stove", "name": "Basic Stove","price": 0,"premiumPrice":4,"imageSetID": "basic-stainless-stove.png","unlockedAtLevel" : 0},
+{"furnitureID": "basic-electric-stove", "class": "Stove", "name": "Electric Stove","price": 1250,"premiumPrice":0,"imageSetID": "basic-electric-stove.png","unlockedAtLevel" : 0},
+{"furnitureID": "fancy-grill-stove", "class": "Stove", "name": "Fancy Grill","price": 2000,"premiumPrice":0,"imageSetID": "fancy-grill-stove.png","unlockedAtLevel" : 0},
+{"furnitureID": "camp-grill-stove", "class": "Stove", "name": "Camp Grill","price": 2500,"premiumPrice":0,"imageSetID": "camp-grill-stove.png","unlockedAtLevel" : 0},
+{"furnitureID": "diner-red-stove", "class": "Stove", "name": "Diner Stove","price": 0,"premiumPrice":10,"imageSetID": "diner-red-stove.png","unlockedAtLevel" : 0},
+{"furnitureID": "copper-stove", "class": "Stove", "name": "Copper Stove","price": 0,"premiumPrice":12,"imageSetID": "copper-stove.png","unlockedAtLevel" : 0},
+
+
+{"furnitureID": "yellow-wood-wallpaper", "class": "Wall", "name": "yellow-wood-wallpaper","price": 10,"premiumPrice":0,"imageSetID": "yellow-wood-wallpaper.png","unlockedAtLevel" : 0},
+{"furnitureID": "french-bistro-tan-brick-wallpaper", "class": "Wall", "name": "french-bistro-tan-brick-wallpaper","price": 10,"premiumPrice":0,"imageSetID": "french-bistro-tan-brick-wallpaper.png","unlockedAtLevel" : 0},
+{"furnitureID": "pub-brick-wallpaper", "class": "Wall", "name": "pub-brick-wallpaper","price": 10,"premiumPrice":0,"imageSetID": "pub-brick-wallpaper.png","unlockedAtLevel" : 0},
+
+
+
+
+{"furnitureID": "pub-floor", "class": "Floor", "name": "pub-floor","price": 10,"premiumPrice":0,"imageSetID": "pub-floor.png","unlockedAtLevel" : 0},
+
+
+{"furnitureID": "diner-red-jukebox", "class": "Furniture", "name": "diner-red-jukebox","price": 10,"premiumPrice":0,"imageSetID": "diner-red-jukebox.png","unlockedAtLevel" : 0
+,"hasFaceUpFrames":true},
+{"furnitureID": "diner-coke-machine", "class": "Furniture", "name": "diner-coke-machine","price": 10,"premiumPrice":0,"imageSetID": "diner-coke-machine.png","unlockedAtLevel" : 0
+"hasFaceUpFrames":true},
+{"furnitureID": "diner-brown-jukebox", "class": "Furniture", "name": "diner-brown-jukebox","price": 10,"premiumPrice":0,"imageSetID": "diner-brown-jukebox.png","unlockedAtLevel" : 0
+"hasFaceUpFrames":true},
+{"furnitureID": "palm-plant", "class": "Furniture", "name": "palm-plant","price": 10,"premiumPrice":0,"imageSetID": "palm-plant.png","unlockedAtLevel" : 0},
+{"furnitureID": "bamboo-plant", "class": "Furniture", "name": "bamboo-plant","price": 10,"premiumPrice":0,"imageSetID": "bamboo-plant.png","unlockedAtLevel" : 0},
+{"furnitureID": "rose-plant", "class": "Furniture", "name": "rose-plant","price": 10,"premiumPrice":0,"imageSetID": "rose-plant.png","unlockedAtLevel" : 0},
+{"furnitureID": "green-plant", "class": "Furniture", "name": "green-plant","price": 10,"premiumPrice":0,"imageSetID": "green-plant.png","unlockedAtLevel" : 0},
+
+
+{"furnitureID": "diner-menu-sign", "class": "WallDecoration", "name": "diner-menu-sign","price": 10,"premiumPrice":0,"imageSetID": "diner-menu-sign.png","unlockedAtLevel" : 0,"footprint":[2,2]},
+{"furnitureID": "diner-round-window", "class": "WallDecoration", "name": "diner-round-window","price": 10,"premiumPrice":0,"imageSetID": "diner-round-window.png","unlockedAtLevel" : 0 },
+{"furnitureID": "diner-wall-clock", "class": "WallDecoration", "name": "diner-wall-clock","price": 10,"premiumPrice":0,"imageSetID": "diner-wall-clock.png","unlockedAtLevel" : 0 },
+{"furnitureID": "diner-menu-chalkboard", "class": "WallDecoration", "name": "diner-menu-chalkboard","price": 10,"premiumPrice":0,"imageSetID": "diner-menu-chalkboard.png","unlockedAtLevel" : 0 },
+{"furnitureID": "vintage-car-poster", "class": "WallDecoration", "name": "vintage-car-poster","price": 10,"premiumPrice":0,"imageSetID": "vintage-car-poster.png","unlockedAtLevel" : 0,"footprint":[2,2]},
+{"furnitureID": "diner-window", "class": "WallDecoration", "name": "diner-window","price": 10,"premiumPrice":0,"imageSetID": "diner-window.png","unlockedAtLevel" : 0 },
+{"furnitureID": "diner-sign", "class": "WallDecoration", "name": "diner-sign","price": 10,"premiumPrice":0,"imageSetID": "diner-sign.png","unlockedAtLevel" : 0,"footprint":[2,2]},
+{"furnitureID": "british-flag", "class": "WallDecoration", "name": "british-flag","price": 10,"premiumPrice":0,"imageSetID": "british-flag.png","unlockedAtLevel" : 0,"footprint":[2,2]},
+{"furnitureID": "mexico-flag", "class": "WallDecoration", "name": "mexico-flag","price": 10,"premiumPrice":0,"imageSetID": "mexico-flag.png","unlockedAtLevel" : 0,"footprint":[2,2]},
+{"furnitureID": "french-flag", "class": "WallDecoration", "name": "french-flag","price": 10,"premiumPrice":0,"imageSetID": "french-flag.png","unlockedAtLevel" : 0,"footprint":[2,2]},
+{"furnitureID": "germany-flag", "class": "WallDecoration", "name": "germany-flag","price": 10,"premiumPrice":0,"imageSetID": "germany-flag.png","unlockedAtLevel" : 0,"footprint":[2,2]},
+{"furnitureID": "italy-flag", "class": "WallDecoration", "name": "italy-flag","price": 10,"premiumPrice":0,"imageSetID": "italy-flag.png","unlockedAtLevel" : 0,"footprint":[2,2]},
+{"furnitureID": "argentina-flag", "class": "WallDecoration", "name": "argentina-flag","price": 10,"premiumPrice":0,"imageSetID": "argentina-flag.png","unlockedAtLevel" : 0,"footprint":[2,2]},
+{"furnitureID": "spanish-flag", "class": "WallDecoration", "name": "spanish-flag","price": 10,"premiumPrice":0,"imageSetID": "spanish-flag.png","unlockedAtLevel" : 0,"footprint":[2,2]},
+{"furnitureID": "american-flag", "class": "WallDecoration", "name": "american-flag","price": 10,"premiumPrice":0,"imageSetID": "american-flag.png","unlockedAtLevel" : 0,"footprint":[2,2]},
+{"furnitureID": "long-window", "class": "WallDecoration", "name": "long-window","price": 10,"premiumPrice":0,"imageSetID": "long-window.png","unlockedAtLevel" : 0 },
+{"furnitureID": "french-window", "class": "WallDecoration", "name": "french-window","price": 10,"premiumPrice":0,"imageSetID": "french-window.png","unlockedAtLevel" : 0 },
+{"furnitureID": "latte-poster", "class": "WallDecoration", "name": "latte-poster","price": 10,"premiumPrice":0,"imageSetID": "latte-poster.png","unlockedAtLevel" : 0 },
+{"furnitureID": "fish-chalk-sign", "class": "WallDecoration", "name": "fish-chalk-sign","price": 10,"premiumPrice":0,"imageSetID": "fish-chalk-sign.png","unlockedAtLevel" : 0 },
+{"furnitureID": "coffee-chalk-sign", "class": "WallDecoration", "name": "coffee-chalk-sign","price": 10,"premiumPrice":0,"imageSetID": "coffee-chalk-sign.png","unlockedAtLevel" : 0 },
+{"furnitureID": "plain-wall-clock", "class": "WallDecoration", "name": "plain-wall-clock","price": 10,"premiumPrice":0,"imageSetID": "plain-wall-clock.png","unlockedAtLevel" : 0 },
+{"furnitureID": "sun-wall-art", "class": "WallDecoration", "name": "sun-wall-art","price": 10,"premiumPrice":0,"imageSetID": "sun-wall-art.png","unlockedAtLevel" : 0 },
+{"furnitureID": "rock-poster", "class": "WallDecoration", "name": "rock-poster","price": 10,"premiumPrice":0,"imageSetID": "rock-poster.png","unlockedAtLevel" : 0,"footprint":[2,2]},
+{"furnitureID": "dishes-wall-art", "class": "WallDecoration", "name": "dishes-wall-art","price": 10,"premiumPrice":0,"imageSetID": "dishes-wall-art.png","unlockedAtLevel" : 0,"footprint":[2,2]},
+{"furnitureID": "pub-shelf", "class": "WallDecoration", "name": "pub-shelf","price": 10,"premiumPrice":0,"imageSetID": "pub-shelf.png","unlockedAtLevel" : 0,"footprint":[2,2]},
+{"furnitureID": "pub-dartboard", "class": "WallDecoration", "name": "pub-dartboard","price": 10,"premiumPrice":0,"imageSetID": "pub-dartboard.png","unlockedAtLevel" : 0 },
+{"furnitureID": "pub-barrel-deco-1", "class": "WallDecoration", "name": "pub-barrel-deco-1","price": 10,"premiumPrice":0,"imageSetID": "pub-barrel-deco-1.png","unlockedAtLevel" : 0,"footprint":[2,2]},
+{"furnitureID": "pub-barrel-deco-2", "class": "WallDecoration", "name": "pub-barrel-deco-2","price": 10,"premiumPrice":0,"imageSetID": "pub-barrel-deco-2.png","unlockedAtLevel" : 0,"footprint":[2,2]},
+{"furnitureID": "pub-barrel-deco-3", "class": "WallDecoration", "name": "pub-barrel-deco-3","price": 10,"premiumPrice":0,"imageSetID": "pub-barrel-deco-3.png","unlockedAtLevel" : 0,"footprint":[2,2]},
+
+	
+	{
+		"furnitureID": "basicTable",
+        "class": "Table",
+        "name": "Basic",
+		"price": 100,
+		"premiumPrice": 0,
+		"imageSetID": "yellow.png",
+		"unlockedAtLevel" : 1
+	},
+	
+	{
+		"furnitureID": "roundedTable",
+        "class": "Table",
+        "name": "Round",
+		"price": 0,
+		"premiumPrice": 1,
+		"imageSetID": "rounded.png",
+		"unlockedAtLevel" : 20
+	},
+	
+	
+	{
+		"furnitureID": "basicChair",
+        "class": "Chair",
+        "name": "Basic",
+		"price": 100,
+		"premiumPrice": 0,
+		"imageSetID": "chair1.png",
+		"unlockedAtLevel" : 1,
+		"hasFaceUpFrames": true,
+		"hasFrontBackSplit": true
+	},
+	
+	{
+		"furnitureID": "wall1",
+        "class": "Wall",
+        "name": "Wall1",
+		"price": 100,
+		"premiumPrice": 0,
+		"imageSetID": "wall1.png",
+		"unlockedAtLevel" : 1,
+		"hasFaceUpFrames": false,
+		"hasFrontBackSplit": false
+	},
+	
+	{
+		"furnitureID": "wall2",
+        "class": "Wall",
+        "name": "Wall2",
+		"price": 0,
+		"premiumPrice": 1,
+		"imageSetID": "wall2.png",
+		"unlockedAtLevel" : 1,
+		"hasFaceUpFrames": false,
+		"hasFrontBackSplit": false
+	},
+	
+		{
+		"furnitureID": "window",
+        "class": "WallDecoration",
+        "name": "Window",
+		"price": 100,
+		"imageSetID": "window.png",
+		"unlockedAtLevel" : 1,
+		"hasFaceUpFrames": false,
+		"hasFrontBackSplit": false
+	},
+	
+	{
+		"furnitureID": "floor",
+        "class": "Floor",
+        "name": "floor",
+		"price": 100,
+		"imageSetID": "floor.png",
+		"unlockedAtLevel" : 1,
+		"hideFromShop" : false
+	},
+	
+	{
+		"furnitureID": "floor2",
+        "class": "Floor",
+        "name": "floor 2",
+		"price": 100,
+		"imageSetID": "floor2.png",
+		"unlockedAtLevel" : 1,
+		"hideFromShop" : false
+	}
+		
+]
+}

@@ -1,0 +1,102 @@
+{
+    "FeaturedThing" : {
+        "dialogAttributesList" : {
+            "social": {
+                "show" : true,
+                "backgroundImages" : [
+                    "modal_theme_thanksgiving.png" 
+                ],
+                "buttonPropertiesList" : [
+                    {
+						"filter": "self.player.socialState.enabled == YES",
+                        "layout": {
+                            "imageWithName": "2_social_tab_newsfeed.png",
+                            "origin": [
+                                136,
+                                203 
+                            ] 
+                        },
+                        "action": {
+            			"action" : "showSocialTabNumber:",
+            			"parameter" : "5" 
+                        } 
+                    } ,
+
+                    {
+						"filter": "self.player.socialState.tinyId != 'robsim'",
+                        "layout": {
+                            "imageWithName": "cat-orange-table1.png",
+                            "origin": [
+                                256,
+                                203 
+                            ] 
+                        },
+                        "action": {
+            			"action" : "visitTinyId:",
+            			"parameter" : "robsim" 
+                        } 
+                    } 
+
+                ] 
+            } 
+        } 
+    },
+    "FeaturedHUDButtons" : [
+        {
+            "filter" : "true==false",
+            "imageName" : "hud_turkey_theme_button.png",
+            "position" : [
+                240,
+                160 
+            ],
+            "action" : "openShopTab:",
+            "parameter" : 0 
+        },
+        {
+            "imageName" : "hud_thanksgiving_sticker.png",
+            "position" : [
+                428,
+                109 
+            ],
+            "action" : "openFeaturedThing:",
+            "parameter" : "social" 
+        },
+        {
+            "filter" : "self.player.level >= 5",
+            "imageName" : "hud_academy_sticker.png",
+            "position" : [
+                428,
+                36 
+            ],
+            "action" : "openAcademy",
+            "parameter" : 0 
+        } ,
+        {
+            "imageName" : "cat-orange-table1.png",
+            "position" : [
+                428,
+                149 
+            ],
+            "action" : "visitTinyId:",
+            "parameter" : "robsim" 
+        },
+        {
+            "imageName" : "2_social_tab_community.png",
+            "position" : [
+                428,
+                229 
+            ],
+            "action" : "showSocial",
+            "parameter" : "" 
+        },
+        {
+            "imageName" : "2_social_tab_newsfeed.png",
+            "position" : [
+                428,
+                259 
+            ],
+            "action" : "showSocialTabNumber:",
+            "parameter" : "5" 
+        } 
+    ] 
+}

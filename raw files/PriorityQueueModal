@@ -1,0 +1,37 @@
+{
+    "PriorityQueueModal" : {
+        "limit": 6,
+        "GenericViewController": {
+            "modalPriority" : 1,
+            "modalOrder" : 40 
+        },
+        "FeaturedThingController": {
+            "modalPriority" : 4,
+            "modalOrder" : 30 
+        },
+        "AcademyModalViewController": {
+            "modalPriority" : 3,
+            "modalOrder" : 20 
+        },
+        "WhileYouWereGoneController": {
+            "modalPriority" : 2,
+            "modalOrder" : 10 
+        },
+        "FeaturedPromoController": {
+            "modalPriority" : 2,
+            "modalOrder" : 15 
+        },
+        "MysteryBoxController": {
+            "modalPriority" : 1,
+            "modalOrder" : 100 
+        },
+        "LevelUpController": {
+            "modalPriority" : 2,
+            "modalOrder" : 110 
+        },
+        "SpoiledRestaurantController": {
+            "modalPriority" : 2,
+            "modalOrder" : 120 
+        } 
+    }
+}

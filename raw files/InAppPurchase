@@ -1,0 +1,169 @@
+{
+    "Offers": {
+        "PremiumCurrency": {
+            "ShowTapJoyButton": true,
+            "UseOldDesign": false 
+        } 
+    },
+    "IAPConfig": {
+        "premiumCurrency10": {
+            "Type": "InAppPremiumCurrencyPurchase",
+            "ProductIdentifier": "com.tinycorp.tinychef.pinchbucks",
+            "Amount": 10,
+			"Name": "Pinch of Bucks",
+            "Icon" : "icon_buck_pinch.png",
+            "HideFromShop" : false,
+            "Order": 0 
+        },
+        "premiumCurrency40": {
+            "Type": "InAppPremiumCurrencyPurchase",
+            "ProductIdentifier": "com.tinycorp.tinychef.pouchbucks",
+            "Amount": 40,
+			"Name": "Pouch of Bucks",
+            "Icon" : "icon_buck_pouch.png",
+            "HideFromShop" : false,
+            "Order": 10 
+        },
+        "premiumCurrency80": {
+            "Type": "InAppPremiumCurrencyPurchase",
+            "ProductIdentifier": "com.tinycorp.tinychef.canbucks",
+            "Amount": 80,
+			"Name": "Can of Bucks",
+            "Icon" : "icon_buck_can.png",
+            "HideFromShop" : false,
+            "Order": 20 
+        },
+        "premiumCurrency110": {
+            "Type": "InAppPremiumCurrencyPurchase",
+            "ProductIdentifier": "com.tinycorp.tinychef.bucketbucks",
+            "Amount": 110,
+			"Name": "Bucket of Bucks",
+            "Icon" : "icon_buck_bucket.png",
+			"Background" : "itembg_special.png",
+			"Highlight" : true,
+            "HideFromShop" : false,
+            "Order": 30 
+        },
+        "premiumCurrency260": {
+            "Type": "InAppPremiumCurrencyPurchase",
+            "ProductIdentifier": "com.tinycorp.tinychef.casebucks",
+            "Amount": 260,
+			"Name": "Case of Bucks",
+            "Icon" : "icon_buck_case.png",
+            "HideFromShop" : false,
+            "Order": 40 
+        },
+        "premiumCurrency625": {
+            "Type": "InAppPremiumCurrencyPurchase",
+            "ProductIdentifier": "com.tinycorp.tinychef.barrelbucks",
+            "Amount": 625,
+            "Name": "Barrel of Bucks",
+            "Icon" : "icon_buck_barrel.png",
+            "HideFromShop" : false,
+            "Order": 50 
+        },
+        "premiumCurrency1600": {
+            "Type": "InAppPremiumCurrencyPurchase",
+            "ProductIdentifier": "com.tinycorp.tinychef.trunkbucks",
+            "Amount": 1600,
+			"Name": "Trunk of Bucks",
+            "Icon" : "icon_buck_trunk.png",
+            "HideFromShop" : false,
+            "Order": 60 
+        },
+        "premiumCurrency3300": {
+            "Type": "InAppPremiumCurrencyPurchase",
+            "ProductIdentifier": "com.tinycorp.tinychef.vaultbucks",
+            "Amount": 3300,
+			"Name": "Vault of Bucks",
+            "Icon" : "icon_buck_vault.png",
+			"Background" : "itembg_special.png",
+			"Highlight" : true,
+            "HideFromShop" : false,
+            "Order": 70 
+        },
+		
+        "regularCurrency2000": {
+            "Type": "InAppRegularCurrencyPurchase",
+            "ProductIdentifier": "com.tinycorp.tinychef.pinchcoins",
+            "Amount": 2000,
+			"Name": "Pinch of Coins",
+            "Icon" : "icon_coin_pinch.png",
+            "HideFromShop" : false,
+            "Order": 0 
+        },
+        "regularCurrency8000": {
+            "Type": "InAppRegularCurrencyPurchase",
+            "ProductIdentifier": "com.tinycorp.tinychef.pouchcoins",
+            "Amount": 8000,
+			"Name": "Pouch of Coins",
+            "Icon" : "icon_coin_pouch.png",
+            "HideFromShop" : false,
+            "Order": 10 
+        },
+        "regularCurrency14000": {
+            "Type": "InAppRegularCurrencyPurchase",
+            "ProductIdentifier": "com.tinycorp.tinychef.cancoins",
+            "Amount": 14000,
+			"Name": "Can of Coins",
+            "Icon" : "icon_coin_can.png",
+            "HideFromShop" : false,
+            "Order": 20 
+        },
+        "regularCurrency22000": {
+            "Type": "InAppRegularCurrencyPurchase",
+            "ProductIdentifier": "com.tinycorp.tinychef.bucketcoins",
+            "Amount": 22000,
+			"Name": "Bucket of Coins",
+            "Icon" : "icon_coin_bucket.png",
+            "HideFromShop" : false,
+            "Order": 30 
+        },
+        "regularCurrency60000": {
+            "Type": "InAppRegularCurrencyPurchase",
+            "ProductIdentifier": "com.tinycorp.tinychef.casecoins",
+            "Amount": 60000,
+			"Name": "Case of Coins",
+            "Icon" : "icon_coin_case.png",
+            "HideFromShop" : false,
+            "Order": 40 
+        },
+            "regularCurrency150000": {
+            "Type": "InAppRegularCurrencyPurchase",
+            "ProductIdentifier": "com.tinycorp.tinychef.barrelcoins",
+            "Amount": 150000,
+            "Name": "Barrel of Coins",
+            "Icon" : "icon_coin_barrel.png",
+            "HideFromShop" : false,
+            "Order": 50 
+        },
+        "regularCurrency380000": {
+            "Type": "InAppRegularCurrencyPurchase",
+            "ProductIdentifier": "com.tinycorp.tinychef.trunkcoins",
+            "Amount": 380000,
+			"Name": "Trunk of Coins",
+            "Icon" : "icon_coin_trunk.png",
+            "HideFromShop" : false,
+            "Order": 60 
+        },
+        "regularCurrency800000": {
+            "Type": "InAppRegularCurrencyPurchase",
+            "ProductIdentifier": "com.tinycorp.tinychef.vaultcoins",
+            "Amount": 800000,
+			"Name": "Vault of Coins",
+            "Icon" : "icon_coin_vault.png",
+			"Background" : "itembg_special.png",
+			"Highlight" : true,
+            "HideFromShop" : false,
+            "Order": 70 
+        } 
+    },
+    "IAPExtraInfo": {
+        "sortKeys": [
+            "Order" 
+        ],
+        "badges": {
+		
+        } 
+    }
+}

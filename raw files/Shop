@@ -1,0 +1,136 @@
+{
+    "Shop" : {
+        "categoryOrder" : [
+            "Mystery",
+            "Props",
+            "Hangings",
+            "Chairs",
+            "Tables",
+            "Stoves",
+            "Servers",
+            "Wallpaper",
+            "Floors" 
+        ],
+        "categories" : {
+            "Mystery" : {
+                "sections" : [
+                    {
+                        "filter" : "className == 'MysteryBox'",
+                        "sortKeys" : [
+                            "extraShopInfo.theme",
+                            "sortOrder",
+                            "premiumPrice",
+                            "name"
+                        ],
+                        "limit" : 100 
+                    } 
+                ] ,
+                "tabIcon" : "shop_turkey_theme.png" 
+            },
+            "Chairs" : {
+                "sections" : [
+                    {
+                        "filter" : "className == 'Chair'",
+                        "sortKeys" : [
+                            "sortOrder",
+                            "name"
+                        ],
+                        "limit" : 100 
+                    } 
+                ] ,
+                "tabIcon" : "shop_chair.png" 
+            },
+            "Tables" : {
+                "sections" : [
+                    {
+                        "filter" : "className == 'Table'",
+                        "sortKeys" : [
+                            "sortOrder",
+                            "name"
+                        ],
+                        "limit" : 100 
+                    } 
+                ] ,
+                "tabIcon" : "shop_table.png" 
+            },
+            "Servers" : {
+                "sections" : [
+                    {
+                        "filter" : "className == 'ServingTable'",
+                        "sortKeys" : [
+                            "sortOrder",
+                            "name"
+                        ],
+                        "limit" : 100 
+                    } 
+                ] ,
+                "tabIcon" : "shop_serving.png" 
+            },
+            "Stoves" : {
+                "sections" : [
+                    {
+                        "filter" : "className == 'Stove'",
+                        "sortKeys" : [
+                            "sortOrder",
+                            "name"
+                        ],
+                        "limit" : 100 
+                    } 
+                ] ,
+                "tabIcon" : "shop_stove.png" 
+            },
+            "Wallpaper" : {
+                "sections" : [
+                    {
+                        "filter" : "className == 'Wall'",
+                        "sortKeys" : [
+                            "sortOrder",
+                            "name"
+                        ],
+                        "limit" : 100 
+                    } 
+                ] ,
+                "tabIcon" : "shop_wall.png" 
+            },
+            "Floors" : {
+                "sections" : [
+                    {
+                        "filter" : "className == 'Floor'",
+                        "sortKeys" : [
+                            "sortOrder",
+                            "name"
+                        ],
+                        "limit" : 100 
+                    } 
+                ] ,
+                "tabIcon" : "shop_floor.png" 
+            },
+            "Props" : {
+                "sections" : [
+                    {
+                        "filter" : "className == 'Furniture'",
+                        "sortKeys" : [
+                            "sortOrder",
+                            "name"
+                        ],
+                        "limit" : 100 
+                    } 
+                ] ,
+                "tabIcon" : "shop_decor.png" 
+            },
+            "Hangings" : {
+                "sections" : [
+                    {
+                        "filter" : "className == 'WallDecoration'",
+                        "sortKeys" : [
+                            "sortOrder",
+                            "name"
+                        ],
+                        "limit" : 100 
+                    } 
+                ] ,
+                "tabIcon" : "shop_hangdecor.png" 
+            } 
+        } 
+    } 
+}

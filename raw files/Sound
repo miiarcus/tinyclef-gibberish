@@ -1,0 +1,45 @@
+{
+"Sound": {
+
+	"loadingSound" : "titletune.caf",
+	"backgroundSound" : "tcbackground.caf",
+	
+	"effects" : {
+	
+		"modalAppearing" : "slideopen.caf",
+		"modalDisappearing" : "slideclosed.caf",
+
+		"dropDecoration" : "placedecoration.caf",
+		"tapDecorate" : "tap.caf",
+		"shopSell:" : "placedecoration.caf",
+		"shopBuy:" : "placedecoration.caf",
+		"tapClean" : "tapclean.caf",
+		"stoveInfoAppeared" : "bubbling.caf",
+		"recipeCooked" : "cook.caf",
+		"recipeServed" : "servedish.caf",
+		"snapshotTaken" : "shutter.caf",
+		
+		"newStarEarned:" : "earnstar.caf",
+		"levelChanged:" : "levelupfix.caf",
+		"socialLevelChanged:" : "levelupfix.caf",
+		"mysteryBoxOpened:" : "levelupfix.caf",
+		"cookbookUnlocked:" : "levelupfix.caf",
+		
+		"sendTipTo:" : "patronpay.caf",
+		"collectTipsForNeighborhood:" : "collecttips.caf",
+		"jingle" : "tipjarjingle.caf",
+		
+		"prizeWheelShown" :"Tiny_Chef_Spinner_Music.caf",
+		"prizeWheelTick" : "spinner_single_tick.caf",
+		"prizeClaimed" : "prize_claimed.caf",
+		"prizeRevealed" : "prize_revealed.caf",
+		"prizeWheelSpinning" : "spinner_loop_long.caf"
+	},
+	"restaurantEffects" : {
+		"recipeDone" : "fooddone.caf",
+		"finishAndPay" : "patronpay.caf"
+	},
+	"eatingSounds" : ["delicious.caf", "mmm.caf", "mmmhmm.caf", "yummy.caf"]
+}
+
+}

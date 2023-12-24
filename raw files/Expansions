@@ -1,0 +1,54 @@
+{
+"Expansions":
+[
+	
+{ "name" :  "7x8" , "size" :        [7,8] , "price": 1000  , "premiumPrice": 10 , "unlockedAtLevel": 3    },
+
+{ "name" :  "8x8" , "size" :        [8,8] , "price": 2000  , "premiumPrice": 20 , "unlockedAtLevel": 5    },
+
+
+{ "name" :  "8x9" , "size" :        [8,9] , "price": 4000  , "premiumPrice": 40 , "unlockedAtLevel": 8    },
+
+
+{ "name" :  "9x9" , "size" :        [9,9] , "price": 8000  , "premiumPrice": 50 , "unlockedAtLevel": 11    },
+
+
+{ "name" :  "9x10" , "size" :        [9,10] , "price": 14000  , "premiumPrice": 60 , "unlockedAtLevel": 14    },
+
+
+{ "name" :  "10x10" , "size" :        [10,10] , "price": 20000  , "premiumPrice": 70 , "unlockedAtLevel": 17    },
+
+
+{ "name" :  "10x11" , "size" :        [10,11] , "price": 36000  , "premiumPrice": 80 , "unlockedAtLevel": 20    },
+
+
+
+{ "name" :  "11x11" , "size" :        [11,11] , "price": 72000  , "premiumPrice": 90 , "unlockedAtLevel": 24    },
+
+
+
+{ "name" :  "11x12" , "size" :        [11,12] , "price": 120000  , "premiumPrice": 100 , "unlockedAtLevel": 28    },
+
+
+
+{ "name" :  "12x12" , "size" :        [12,12] , "price": 180000  , "premiumPrice": 110 , "unlockedAtLevel": 32    },
+
+
+
+
+{ "name" :  "12x13" , "size" :        [12,13] , "price": 240000  , "premiumPrice": 120 , "unlockedAtLevel": 37    },
+
+
+
+
+{ "name" :  "13x13" , "size" :        [13,13] , "price": 360000  , "premiumPrice": 130 , "unlockedAtLevel": 42    },
+
+
+
+
+
+{ "name" :  "13x14" , "size" :        [13,14] , "price": 520000  , "premiumPrice": 140 , "unlockedAtLevel": 48    }
+			
+							
+]
+}

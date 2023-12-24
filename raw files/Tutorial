@@ -1,0 +1,12 @@
+{
+    "Tutorial": {
+
+		"steps": [ 
+			{ "tutorialImage" : "tutorial_1.png" , "blocksScreen" : true } ,
+			{ "tutorialImage" : "tutorial_2.png" , "waitForNotification" : ["foodToServingDish:","foodOnStoveTrashed:"],  "zoomTile" : [1,7] } ,
+			{ "tutorialImage" : "tutorial_3.png" , "blocksScreen" : true } ,
+			{ "tutorialImage" : "tutorial_4.png" , "waitForNotification" : ["foodToStove:"] } 
+		],
+		"finishImage" : "tutorial_5.png"
+    }
+}
